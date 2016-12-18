@@ -1,0 +1,40 @@
+/* add your CSS here */
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  width:326px;
+  height: auto;
+  padding-left: 10px;
+  padding-top: 10px;
+  font-family: "Goudy Old Style" ;
+}
+.image{
+  text-align: center;
+  padding-top: 15px;
+}
+.card{
+  border: 1px solid #cedec7;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px #819c81;
+  padding: 18px 12px 12px 12px;
+  background-color: #e4efca;
+}
+.items{
+  list-style-type: none;
+  padding: 17px 0px 17px 0px;
+}
+span{
+  font-weight: bold;
+}
+.fact{
+  font-style: italic;
+}
+.information{
+  border: 1px solid #a1ad9c;
+  margin-top:  14px;
+  padding: 10px 10px 10px 10px;
+  background-color:#c6dec3;
+}
